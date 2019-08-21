@@ -1,6 +1,6 @@
 # Edit Appspec.yaml Lambda Function For AWS CodePipeline
 
-Simple python script that allows for changing the AppSpec.yaml on the fly in case of different configurations for production and development.
+Simple python script (Python 3.6 Runtime) that allows for changing the AppSpec.yaml on the fly in case of different configurations for production and development.
 
 ## How does it work?
 
